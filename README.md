@@ -9,6 +9,7 @@
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[!deploy](https://heroku.com/deploy?template=https://github.com/Nksama/Akenochan)
 
 
 🦋 A modular Telegram Python bot made with [Saitama](https://github.com/AnimeKaizoku/SaitamaRobot) as a base. 
@@ -36,7 +37,7 @@ REMEMBER: Turn on worker dyno (Don't worry It's free :D) & Webhook
 Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.com/apps/(app-name)/settings and remove webhook and port.
 ```
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnimeKaizoku/SaitamaRobot.git)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nksama/akenochan)
 
 </details>  
 <details>
@@ -204,7 +205,7 @@ Note: the restart bat requires that User account control be disabled.
 ## How to setup on Heroku [Will deploy saitama]
 For starters click on this button 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnimeKaizoku/AkenoHimejimabot.git) 
+
 
 
 ## Credits (Saitama - Original)
