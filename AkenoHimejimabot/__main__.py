@@ -56,7 +56,7 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 *Ara Ara...* {}, I am {}!
 It will be pleasure for me to serve your chat  🤍
-*Meet me at*!
+*Meet me at*!  nevermind anyway use /help and report bugs too @nk_guy
 """
 
 HELP_STRINGS = """
