@@ -1,8 +1,8 @@
 
-![Akeno](https://telegra.ph/file/0b32f717cb86ee6272d35.jpg)
+![Power✨](https://te.legra.ph/file/e470b4a3c26fee4096784.jpg)
 
 
-# Akeno Himejima Bot 
+# Power✨ bot
 
 
 
@@ -15,10 +15,10 @@
 🦋 A modular Telegram Python bot made with [Saitama](https://github.com/AnimeKaizoku/SaitamaRobot) as a base. 
 
 
-🦋 Can be found on telegram as [AkenoHimejimaChatbot](https://t.me/AkenoHimejimaChatbot).
+🦋 Can be found on telegram as [power✨ bot](http://t.me/Sexy_power_bot).
 
 
-🦋 The Support group can be reached out to at [Support group](https://t.me/akenosupport)
+🦋 The Support group can be reached out to at [Support group](https://t.me/power_support_chat)
 
 ## How to setup/deploy.
 
