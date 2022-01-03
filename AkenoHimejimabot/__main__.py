@@ -54,7 +54,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-*Ara Ara...* {}, I am {}!
+*You baka🤭...* {}, I am {power✨}!
 It will be pleasure for me to serve your chat  🤍
 *Meet me at*!  nevermind anyway use /help 
 """
@@ -72,8 +72,8 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-AKENOIMG = "https://telegra.ph/file/e43578f57e45d900fb1b0.png"
-AKENOPINGIMG = "https://telegra.ph/file/e43578f57e45d900fb1b0.png"
+AKENOIMG = "https://te.legra.ph/file/fa4d9005516790edaa884.jpg"
+AKENOPINGIMG = "https://te.legra.ph/file/2fbfc78f39c7430893906.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer of the Base code, Paul
